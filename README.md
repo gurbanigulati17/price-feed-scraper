@@ -1,5 +1,8 @@
 # price-feed-scraper
 
+Git Clone: git clone
+Run Project: node index.js
+
 Visit: http://localhost:3000/api/price-feed
 
 

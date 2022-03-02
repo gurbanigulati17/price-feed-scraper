@@ -1,5 +1,5 @@
 # price-feed-scraper
-
+## Getting Started
 Git Clone: git clone https://github.com/gurbanigulati17/price-feed-scraper.git
 
 Install Packages: npm install

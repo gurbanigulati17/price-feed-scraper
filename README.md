@@ -1,6 +1,9 @@
 # price-feed-scraper
 
-Git Clone: git clone
+Git Clone: git clone https://github.com/gurbanigulati17/price-feed-scraper.git
+
+Install Packages: npm install
+
 Run Project: node index.js
 
 Visit: http://localhost:3000/api/price-feed
